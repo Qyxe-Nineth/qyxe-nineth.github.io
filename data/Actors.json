@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Qyxe","characterIndex":0,"characterName":"Qyxe","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Qyxe","traits":[],"initialLevel":1,"maxLevel":99,"name":"Qyxe Nineth","nickname":"Qyxe","note":"","profile":"A traveller seeking the truth about the essence of life\ntogether with his little brother"},
+{"id":2,"battlerName":"Ukherul","characterIndex":0,"characterName":"Ukherul","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Ukherul","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ukherul Whitestar","nickname":"Ukherul","note":"","profile":"A (time) traveller going back in time to prevent The \nGreat Evil taking over the world."}
+]
